@@ -1,0 +1,8 @@
+{
+  "name": "Critical Ticket Analyzer & Alerting System",
+  "description": "Real-time ticketing alert system for managers that uses Gemma 4 31B to analyze, prioritize, and alert on critical customer issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
